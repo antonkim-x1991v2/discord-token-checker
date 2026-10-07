@@ -8,4 +8,4 @@ pip install -r requirements.txt
 run it:
 python checker.py tokens.txt
 
-<!-- last-sync: 2026-10-06 -->
+<!-- last-sync: 2026-10-07 -->
